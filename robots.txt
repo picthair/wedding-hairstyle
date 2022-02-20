@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://picthair.github.io/wedding-hairstyle/sitemapx.xml
